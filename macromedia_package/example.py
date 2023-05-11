@@ -3,3 +3,6 @@ def add_five(number):
 
 def add_twenty(number):
     return number + 20
+
+def add_thirty(number):
+    return number + 30
